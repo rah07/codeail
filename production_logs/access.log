@@ -1,0 +1,17 @@
+[0mGET / [32m200[0m 1027.200 ms - 9719[0m
+[0mGET /favicon.ico [33m404[0m 136.072 ms - 150[0m
+[0mGET /users/sign-in [32m200[0m 61.553 ms - 3058[0m
+[0mGET /users/css/layout.css [33m404[0m 102.969 ms - 159[0m
+[0mGET /users/sign-up [32m200[0m 56.429 ms - 3532[0m
+[0mGET /users/css/layout.css [33m404[0m 6.894 ms - 159[0m
+[0mPOST /users/create/ [36m302[0m 175.913 ms - 72[0m
+[0mGET /users/sign-in [36m304[0m 8.164 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 10.495 ms - 159[0m
+[0mPOST /users/create-session [36m302[0m 12.634 ms - 72[0m
+[0mGET /users/sign-in [32m200[0m 12.676 ms - 3362[0m
+[0mGET /users/css/layout.css [33m404[0m 4.908 ms - 159[0m
+[0mGET /users/sign-in [32m200[0m 9.393 ms - 3058[0m
+[0mGET /users/css/layout.css [33m404[0m 6.192 ms - 159[0m
+[0mPOST /users/create-session [36m302[0m 5.550 ms - 72[0m
+[0mPOST /users/create-session [36m302[0m 1578.740 ms - 46[0m
+[0mGET / [32m200[0m 65.845 ms - 14008[0m
